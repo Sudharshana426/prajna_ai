@@ -1,13 +1,12 @@
 <a href="https://www.turboseek.io">
   <img alt="Turbo Seek" src="./public/og-image.png">
-  <h1 align="center">TurboSeek</h1>
+  <h1 align="center">Prajna</h1>
 </a>
 
 <p align="center">
   An open source AI search engine. Powered by Together.ai.
 </p>
 
-> If you want to learn how to build this, check out [**the tutorial**](https://docs.together.ai/docs/ai-search-engine)!
 
 ## Tech stack
 
