@@ -1,5 +1,4 @@
 <a href="https://www.turboseek.io">
-  <img alt="Turbo Seek" src="./public/og-image.png">
   <h1 align="center">Prajna</h1>
 </a>
 
